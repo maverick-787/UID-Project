@@ -36,4 +36,3 @@ UID Project/
 Since this project uses no complex backend, you simply need to open the `index.html` file in any modern web browser (Chrome, Firefox, Safari). No build tools (like Webpack or Vite) or local servers are strictly required!
 
 ---
-*Created for the UID Web Development Project.*
